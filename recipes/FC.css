@@ -1,0 +1,23 @@
+* {
+    background-color: beige;
+    text-align: center;
+}
+
+#T {
+    padding: 40px;
+    color: red;
+}
+
+
+.Ingredient{
+    list-style-type: none;
+}
+
+li {
+    margin: 20px;
+}
+
+button {
+    padding: 10px;
+    font-style: oblique;
+}

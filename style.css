@@ -1,0 +1,25 @@
+* {
+    background-color: lightcoral;
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+
+}
+
+  ul {
+    list-style-type: none;
+  }
+  li a{
+    color: black;
+    font-size: 30px;
+  }
+
+  li a:hover {
+    background-color: beige;
+  }
+
+  p {
+    font-size: 30px;
+  }
